@@ -1,0 +1,14 @@
+[1013/153724.331:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1013/153724.331:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[1013/171146.405:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171151.414:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171257.996:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171303.011:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171313.030:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171333.044:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171450.612:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171455.626:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171602.111:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171607.119:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171617.141:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1013/171637.158:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.

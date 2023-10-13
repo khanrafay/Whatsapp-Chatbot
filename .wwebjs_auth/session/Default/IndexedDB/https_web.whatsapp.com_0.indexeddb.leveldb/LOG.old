@@ -1,0 +1,32 @@
+2023/10/13-15:27:36.211 24dc Reusing MANIFEST D:\Projects\tazman-chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/13-15:27:36.212 24dc Recovering log #610
+2023/10/13-15:27:36.247 24dc Reusing old log D:\Projects\tazman-chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000610.log 
+2023/10/13-15:27:36.248 24dc Delete type=2 #609
+2023/10/13-15:27:47.534 20e8 Level-0 table #615: started
+2023/10/13-15:27:47.555 20e8 Level-0 table #615: 100459 bytes OK
+2023/10/13-15:27:47.568 20e8 Delete type=0 #610
+2023/10/13-15:27:47.569 20e8 Manual compaction at level-0 from '\x00\xaf\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xb0\x00\x00\x00' @ 0 : 0; will stop at '\x00\xb0\x00\x00\x05' @ 1678316 : 1
+2023/10/13-15:27:47.570 20e8 Compacting 1@0 + 1@1 files
+2023/10/13-15:27:47.907 20e8 Generated table #616@0: 69305 keys, 1590968 bytes
+2023/10/13-15:27:47.907 20e8 Compacted 1@0 + 1@1 files => 1590968 bytes
+2023/10/13-15:27:47.918 20e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-15:27:47.919 20e8 Delete type=2 #615
+2023/10/13-15:27:47.919 20e8 Manual compaction at level-0 from '\x00\xb0\x00\x00\x05' @ 1678316 : 1 .. '\x00\xb0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/13-15:27:47.920 24dc Level-0 table #618: started
+2023/10/13-15:27:47.952 24dc Level-0 table #618: 812 bytes OK
+2023/10/13-15:27:47.963 24dc Delete type=2 #612
+2023/10/13-15:27:47.963 24dc Delete type=0 #614
+2023/10/13-15:27:47.965 24dc Manual compaction at level-0 from '\x00\xb0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xb1\x00\x00\x00' @ 0 : 0; will stop at '\x00\xb0\x00\x00\x05' @ 1678422 : 0
+2023/10/13-15:27:47.965 24dc Compacting 1@0 + 1@1 files
+2023/10/13-15:27:48.242 24dc Generated table #619@0: 69311 keys, 1590997 bytes
+2023/10/13-15:27:48.242 24dc Compacted 1@0 + 1@1 files => 1590997 bytes
+2023/10/13-15:27:48.254 24dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-15:27:48.254 24dc Delete type=2 #618
+2023/10/13-15:27:48.255 24dc Manual compaction at level-0 from '\x00\xb0\x00\x00\x05' @ 1678422 : 0 .. '\x00\xb1\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/13-15:32:53.530 20e8 Compacting 1@1 + 1@2 files
+2023/10/13-15:32:53.689 20e8 Generated table #620@1: 27474 keys, 1248398 bytes
+2023/10/13-15:32:53.689 20e8 Compacted 1@1 + 1@2 files => 1248398 bytes
+2023/10/13-15:32:53.701 20e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/13-15:32:53.702 20e8 Delete type=2 #570
+2023/10/13-15:32:53.702 20e8 Delete type=2 #616
+2023/10/13-15:32:53.702 20e8 Delete type=2 #619
